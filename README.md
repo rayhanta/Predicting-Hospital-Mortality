@@ -1,4 +1,4 @@
-# BU_DM_Project
+# Predicting Hospital Mortality
 **Classification model to predict hospital mortality among heart failure patients at beth israel hospital in Boston, MA**
 
 This term project aims to predict hospital mortality from a sample data of 1177 patients who suffered from heart failure. Therefore, a binary label is estimated, indicating whether an individual may be more likely to survive or perish during the treatment process. The variables used for this classification task consist of demographic patient records, such as age, gender, and medical data collected from blood and urine samples.
